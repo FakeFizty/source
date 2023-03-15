@@ -1,1 +1,1 @@
-set updatestatus=Availible
+set updatestatus=Unavailible
