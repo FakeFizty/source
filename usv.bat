@@ -1,1 +1,0 @@
-set updatestatus=Availible
